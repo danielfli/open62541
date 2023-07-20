@@ -9,6 +9,7 @@ Build-Depends: debhelper (>= 9),
  texlive-fonts-recommended,
  texlive-latex-extra,
  texlive-plain-generic | texlive-generic-extra,
+ tex-gyre,
  latexmk,
  libmbedtls-dev
 Standards-Version: 4.4.1
